@@ -49,16 +49,6 @@ I'm **Rohan Ahmed** — Founder & CEO of **[RoGency](https://agency.rohanahmed.n
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanahmed24&theme=tokyonight&background=0d0d17&border=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&sideNums=e2e8f0&currStreakNum=e2e8f0" height="160" alt="GitHub Streak" />
 
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanahmed24&theme=tokyonight" alt="Profile Details" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohanahmed24&theme=tokyonight" height="160" alt="Repos per Language" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohanahmed24&theme=tokyonight" height="160" alt="Most Commit Language" />
-
 </div>
 
 ---
