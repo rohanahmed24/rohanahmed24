@@ -47,13 +47,17 @@ I'm **Rohan Ahmed** — Founder & CEO of **[RoGency](https://agency.rohanahmed.n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanahmed24&show_icons=true&theme=tokyonight&bg_color=0d0d17&border_color=8b5cf6&title_color=a78bfa&icon_color=8b5cf6&text_color=e2e8f0&hide_border=false&rank_icon=github&cache_seconds=86400" height="160" alt="GitHub Stats" />
-&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanahmed24&theme=tokyonight&background=0d0d17&border=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&sideNums=e2e8f0&currStreakNum=e2e8f0" height="160" alt="GitHub Streak" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanahmed24&layout=compact&theme=tokyonight&bg_color=0d0d17&border_color=8b5cf6&title_color=a78bfa&text_color=e2e8f0&hide_border=false&cache_seconds=86400" height="160" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanahmed24&theme=tokyonight" alt="Profile Details" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohanahmed24&theme=tokyonight" height="160" alt="Repos per Language" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohanahmed24&theme=tokyonight" height="160" alt="Most Commit Language" />
 
 </div>
 
