@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=200&section=header&text=Rohan%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Founder%20%26%20CEO%20%40%20RoGency%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=55&descColor=a78bfa&animation=fadeIn" alt="header" />
+# Rohan Ahmed
 
-<br />
+Founder & CEO of [RoGency](https://agency.rohanahmed.net)
 
-[![Portfolio](https://img.shields.io/badge/rohanahmed.net-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://rohanahmed.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedrohan/)
-[![Agency](https://img.shields.io/badge/RoGency-8b5cf6?style=for-the-badge&logo=rocket&logoColor=white)](https://agency.rohanahmed.net)
+AI-native web development · Next.js · React · TypeScript · AI Integration
+
+[Portfolio](https://rohanahmed.net) · [LinkedIn](https://www.linkedin.com/in/ahmedrohan/) · [Agency](https://agency.rohanahmed.net)
 
 </div>
 
@@ -43,16 +43,6 @@ I'm **Rohan Ahmed** — Founder & CEO of **[RoGency](https://agency.rohanahmed.n
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohanahmed24&theme=tokyonight&background=0d0d17&border=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&sideNums=e2e8f0&currStreakNum=e2e8f0" height="160" alt="GitHub Streak" />
-
-</div>
-
----
-
 ### 🏗 Featured Work
 
 | Project | Description | Stack | Link |
@@ -63,20 +53,8 @@ I'm **Rohan Ahmed** — Founder & CEO of **[RoGency](https://agency.rohanahmed.n
 
 ---
 
-### 📈 Activity
+### 📬 Contact
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanahmed24&bg_color=0d0d17&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=false&border_color=8b5cf6" alt="Activity Graph" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-**Let's build something remarkable →** [rohanahmed.net](https://rohanahmed.net) · [LinkedIn](https://www.linkedin.com/in/ahmedrohan/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=100&section=footer" alt="footer" />
+[Portfolio](https://rohanahmed.net) · [LinkedIn](https://www.linkedin.com/in/ahmedrohan/) · [Agency](https://agency.rohanahmed.net)
 
 </div>
