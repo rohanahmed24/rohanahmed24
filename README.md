@@ -1,60 +1,25 @@
-<div align="center">
-
 # Rohan Ahmed
 
-Founder & CEO of [RoGency](https://agency.rohanahmed.net)
+**Webflow & Framer Developer | AI-Augmented Web & Automation**
 
-AI-native web development · Next.js · React · TypeScript · AI Integration
+I build responsive, CMS-driven websites from high-fidelity designs, with a focus on maintainable structure, custom interactions, and production QA. I use AI-assisted tools for prototyping, debugging, custom scripting, API integration, and automation—without treating them as a substitute for delivery.
 
-[Portfolio](https://rohanahmed.net) · [LinkedIn](https://www.linkedin.com/in/ahmedrohan/) · [Agency](https://agency.rohanahmed.net)
+Based in Dhaka, Bangladesh · Open to full-time and remote opportunities
 
-</div>
+## Core capabilities
 
----
+- **Webflow:** CMS, Client-First, Relume, reusable components, responsive implementation, interactions, technical SEO
+- **Framer:** responsive layouts, CMS-driven experiences, components, and micro-interactions
+- **Motion & frontend:** GSAP, HTML, CSS, JavaScript, responsive QA, cross-browser testing
+- **AI & automation:** Cursor, Claude, OpenAI API, MCP-enabled workflows, Make, Zapier, Airtable, webhooks
 
-### 👋 About Me
+## Selected work
 
-I'm **Rohan Ahmed** — Founder & CEO of **[RoGency](https://agency.rohanahmed.net)**, an AI-native web development studio focused on fast, polished, and scalable web experiences.
+- [Verde Market](https://github.com/rohanahmed24/verde-market) — multi-page storefront concept with GSAP, ScrollTrigger, and Lenis
+- [Eduboost](https://github.com/rohanahmed24/eduboost-web) — responsive learning-platform frontend with reusable components and motion
+- [RoFlow](https://github.com/rohanahmed24/roflow-by-rohan) — experimental HTML/CSS-to-Webflow conversion prototype
+- [Carzone](https://github.com/rohanahmed24/Carzone) — Webflow car-dealer concept with CMS-driven inventory
+- [Eventchamp](https://github.com/rohanahmed24/Eventchamp) — Webflow event-platform concept with CMS-driven content
+- [Voicy AI](https://github.com/rohanahmed24/voicy-ai) — Bengali–English transcription prototype built with Flutter
 
-- 🚀 Building **AI Web Dev Studio** systems, automation pipelines, and modern web apps
-- 🧠 Specialised in **Next.js**, **React**, **TypeScript**, and **AI Integration**
-- 🌍 Remote-first · Available for freelance & agency projects
-- ☕ Always improving, shipping, and learning
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
-
----
-
-### 🏗 Featured Work
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🟣 **RoGency** | AI-native web dev studio | Next.js · AI Agents · TypeScript | [agency.rohanahmed.net](https://agency.rohanahmed.net) |
-| 🟣 **TheWisdomia** | AI-powered learning platform | Next.js · AI · React | [thewisdomia.com](https://thewisdomia.com) |
-| 🟣 **Lumis AI** | AI creative intelligence platform | Next.js · AI · Netlify | [lumis-ai.netlify.app](https://lumis-ai.netlify.app) |
-
----
-
-### 📬 Contact
-
-[Portfolio](https://rohanahmed.net) · [LinkedIn](https://www.linkedin.com/in/ahmedrohan/) · [Agency](https://agency.rohanahmed.net)
-
-</div>
+[Portfolio](https://www.rohanahmed.net/) · [LinkedIn](https://www.linkedin.com/in/ahmedrohan/)
